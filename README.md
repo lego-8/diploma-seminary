@@ -17,14 +17,14 @@ The thesis focuses on evaluating how large language models handle mathematical r
 | 2025-02-28 | Chapter 1: Overview of vision-language models                        | ⏳ Planned     |
 | 2025-03-03 | Create initial list of key benchmarks (MATH, MGSM8K, MathVista, ..) | ✅ Completed   |
 | 2025-03-06 | Writing: Section 2.2 (Related benchmarks)                            | 🔄 In Progress |
-| 2024-03-03 | Reviewe some papers on evaluation                                   | ✅ Completed   |
+| 2024-03-03 | Review some papers on evaluation                                   | ✅ Completed   |
 | 2025-03-26 | Writing: Section 2.2 & 2.3 (Evaluation & Techniques)                 | ⏳ Planned     |
 | 2024-04-07 | Select key data sources: Maturita, Testovanie 5, Monitor, Olympiads| ✅ Completed   |
 | 2024-04-15 | Define dataset structure and attribute fields                       | ✅ Completed   |
 | 2025-04-15 | Writing: Section 3.1 (Data sources and structure)                    | 🔄 In Progress |
 | 2024-05-10 | Create a pilot sample to test the evaluation pipeline               | ✅ Completed   |
 | 2024-05-10 | Develop preliminary testing and evaluation code                    | ✅ Completed   |
-| 2025-03-06?| **Data collection & refinement of data taxonomy **                       | ⏳ Planned     |
+| 2025-03-06?| **Data collection & refinement of data taxonomy**                       | ⏳ Planned     |
 | 2025-15-06? | Scale up evaluation after collecting more data                       | ⏳ Planned     |
 | 2025-15-06?| Baseline evaluation of selected models                                | ⏳ Planned     |
 

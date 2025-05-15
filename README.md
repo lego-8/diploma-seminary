@@ -1,11 +1,14 @@
 # Diploma Project
 
 ## Project Description
-Provide a brief overview of your diploma project. Explain its purpose, scope, and relevance.
+The thesis focuses on evaluating how large language models handle mathematical reasoning tasks that include visual elements, such as diagrams or graphs, with a specific focus on Slovak. The primary goal is to develop a dataset from standardized tests in Slovak, assess the performance of selected models on these tasks and analyze typical reasoning errors.
 
 ## Objectives
-- Define your primary goals and expected outcomes.
-- List the key features or innovations in the project.
+- Examine how LLMs approach mathematical reasoning based on visual inputs.
+- Investigate existing benchmarks for evaluating visual and mathematical reasoning.
+- Develop a Slovak dataset of mathematical reasoning tasks with visual components from standardized tests and Olympiads.
+- Evaluate the performance of LLMs on the dataset, focusing on reasoning through visual inputs.
+- Analyze error patterns to understand limitations in visual-based reasoning in Slovak tasks.
 
 ## Timeline
 | Date | Task | Status |

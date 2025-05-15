@@ -18,8 +18,7 @@ The thesis focuses on evaluating how large language models handle mathematical r
 | YYYY-MM-DD | Task 3 | ✅ Completed / 🔄 In Progress / ⏳ Planned |
 
 ## Downloads
-- [Latest PDF Version](./docs/latest.pdf)
-- [Previous Versions](./docs/)
+- [Latest PDF Version of Thesis](./Benchmarking_Mathematical_Reasoning_Based_on_Visual_Input_in_Large_Language_Models_in_Slovak___MSc_2026.pdf)
 
 ## Repository
 Link to the GitHub repository for source code and project files: [GitHub Repo](https://github.com/your-repo-link)
